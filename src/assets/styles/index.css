@@ -12,4 +12,8 @@
 @font-face {
     font-family: 'Poppins';
     src: local('Poppins'), url('./assets//fonts/Poppins-Regular.ttf') format('truetype');
+};
+
+body{
+    color: white;
 }
